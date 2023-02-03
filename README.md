@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @bahmannikouei
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Java & JavaScript
