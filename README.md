@@ -3,5 +3,5 @@ while(live){
     training();
     eat();
     sleep();
-}
+};
 nikoubahman@gmail.com
