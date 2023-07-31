@@ -1,4 +1,4 @@
-while(live){
+while(live){ <br>
     code(php,node,javascript);
     training();
     eat();
