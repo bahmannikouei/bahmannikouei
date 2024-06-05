@@ -1,7 +1,8 @@
-while(live){ <br>
-    code(php,node,javascript);<br>
-    training();<br>
-    eat();<br>
-    sleep();<br>
-};<br>
+while(alive) {
+    code("PHP", "JavaScript");
+    giving_lessons();
+    having_a_meal();
+    getting_some_rest();
+}
+
 nikoubahman@gmail.com
